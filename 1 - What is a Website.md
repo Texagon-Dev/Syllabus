@@ -1,37 +1,37 @@
 # Website Components
 
-## Frontend
+## 1) Frontend
 
-### User Interface (UI)
+### 1.1) User Interface (UI)
 The frontend is the user-facing part of a website that users interact with directly. It consists of web pages, layouts, and user interfaces designed to present information and enable user interactions.
 
-### HTML/CSS/JavaScript
+### 1.2) HTML/CSS/JavaScript
 Frontend developers use HTML (Hypertext Markup Language) for structuring content, CSS (Cascading Style Sheets) for styling, and JavaScript for adding interactivity and dynamic behavior to web pages.
 
-### UI Frameworks and Libraries
+### 1.3) UI Frameworks and Libraries
 Frontend developers often utilize UI frameworks and libraries like React, Angular, Vue.js, or Bootstrap to streamline the development of responsive and visually appealing user interfaces.
 
-### Client-Side Routing
+### 1.4) Client-Side Routing
 Managing client-side routing for single-page applications (SPAs) to enable smooth navigation without full page reloads.
 
-## Backend
+## 2) Backend
 
-### Server Logic
+### 2.1) Server Logic
 The backend is the server-side of the website responsible for processing requests, managing data, and executing business logic.
 
-### Programming Languages
+### 2.2) Programming Languages
 Backend developers use programming languages like Python, Java, Ruby, Node.js, PHP, or C# to build server-side applications.
 
-### Server Frameworks
+### 2.3) Server Frameworks
 Backend frameworks such as Django (Python), Express.js (Node.js), Ruby on Rails (Ruby), or Spring (Java) provide a structure for building web applications.
 
-### APIs
+### 2.4) APIs
 Backend developers create APIs (Application Programming Interfaces) to expose functionalities and data to the frontend and other applications. These APIs can be RESTful or use other protocols like GraphQL.
 
-### Authentication and Authorization
+### 2.5) Authentication and Authorization
 Implementing user authentication, authorization, and security measures to protect data and restrict access to authorized users.
 
-## Database
+## 3) Database
 
 ### Data Storage
 Databases are used to store structured data such as user profiles, articles, product information, and more.
