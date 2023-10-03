@@ -33,14 +33,14 @@ Implementing user authentication, authorization, and security measures to protec
 
 ## 3) Database
 
-### Data Storage
+### 3.1) Data Storage
 Databases are used to store structured data such as user profiles, articles, product information, and more.
 
-### Types of Databases
+### 3.2) Types of Databases
 There are two primary types of databases: SQL databases (e.g., MySQL, PostgreSQL) for structured data with predefined schemas and NoSQL databases (e.g., MongoDB, Redis) for unstructured or semi-structured data.
 
-### Data Modeling
+### 3.3) Data Modeling
 Designing the database schema, including tables, relationships, and data integrity constraints.
 
-### Database Operations
+### 3.4) Database Operations
 Backend code interacts with the database through CRUD (Create, Read, Update, Delete) operations, ensuring data consistency and integrity.
