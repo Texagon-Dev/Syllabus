@@ -10,7 +10,7 @@ A website is a collection of web pages and related resources that are accessible
 The frontend is what the user sees and interacts with. It includes the visual design, layout, and content that is displayed in the browser. The frontend is built using HTML, CSS, JavaScript, and frontend frameworks like React or Angular. It takes data from the backend and presents it visually to the user.
 <div style="margin-left: 20px;">
 
-### 1.1) User Interface (UI)
+&emsp;&emsp; ### 1.1) User Interface (UI)
 The frontend is the user-facing part of a website that users interact with directly. It consists of web pages, layouts, and user interfaces designed to present information and enable user interactions.
 
 ### 1.2) HTML/CSS/JavaScript
