@@ -6,16 +6,13 @@ A website is a collection of web pages and related resources that are accessible
 
 The frontend is what the user sees and interacts with. It includes the visual design, layout, and content that is displayed in the browser. The frontend is built using HTML, CSS, JavaScript, and frontend frameworks like React or Angular. It takes data from the backend and presents it visually to the user.
 
-- 1.1) HTML/CSS/JavaScript
+- 1.1) HTML/CSS/JavaScript : 
 Frontend developers use HTML (Hypertext Markup Language) for structuring content, CSS (Cascading Style Sheets) for styling, and JavaScript for adding interactivity and dynamic behavior to web pages.
 
-- 1.2) UI Frameworks and Libraries
+- 1.2) UI Frameworks and Libraries : 
 Frontend developers often utilize UI frameworks and libraries like React, Angular, Vue.js, or Bootstrap to streamline the development of responsive and visually appealing user interfaces.
 
-- 1.3) Client-Side Routing
-Managing client-side routing for single-page applications (SPAs) to enable smooth navigation without full page reloads.
-
-- 1.4) User Interface (UI)
+- 1.3) User Interface (UI) : 
 The frontend is the user-facing part of a website that users interact with directly. It consists of web pages, layouts, and user interfaces designed to present information and enable user interactions.
 
 # What we Use
@@ -26,19 +23,19 @@ We use Vite JS and Next JS as Frontend Frameworks. For Stylling We are using Tai
 # 2) Backend Development
 The backend is the part of a website that runs on the server, responsible for handling core functionality and business logic. It comprises several crucial components and technologies.
 
-- 2.1) Web Server
+- 2.1) Web Server : 
 A web server is a pivotal software or hardware component that manages incoming requests from web browsers and serves web content. It plays a crucial role in processing requests, routing them to the appropriate resources, generating responses, and ensuring secure communication using the HTTP protocol. Additionally, web servers manage security, logging, and often employ load balancing for handling high traffic. Web servers, like Apache, Nginx, and Microsoft IIS, form a critical part of the internet infrastructure, facilitating the delivery of web pages, images, videos, and more to users' browsers.
 
-- 2.2) Programming Languages
+- 2.2) Programming Languages : 
 Backend developers harness programming languages such as PHP, Python, Ruby, Java, and others to build the server-side components of websites. These languages enable developers to implement intricate server logic and data processing.
 
-- 2.3) Frameworks
+- 2.3) Frameworks : 
 Frameworks like Node.js, Django, Rails, and many more provide structured environments for building robust web applications. They streamline development, offering pre-built modules and tools for common tasks.
 
-- 2.4) APIs (Application Programming Interfaces)
+- 2.4) APIs (Application Programming Interfaces) : 
 Backend developers craft APIs to expose functionalities and data to the frontend and other applications. APIs act as intermediaries, enabling seamless communication between the user interface and the server. They can be designed using RESTful principles or employ alternative protocols like GraphQL.
 
-- 2.5) Authentication and Authorization
+- 2.5) Authentication and Authorization : 
 Security is paramount in backend development. Backend developers implement authentication and authorization mechanisms to safeguard data and restrict access to authorized users. These measures ensure that sensitive information remains protected from unauthorized access or malicious actions.
 
 # What we use
