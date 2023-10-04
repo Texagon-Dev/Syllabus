@@ -7,7 +7,7 @@ A website is a collection of web pages and related resources that are accessible
 The frontend is what the user sees and interacts with. It includes the visual design, layout, and content that is displayed in the browser. The frontend is built using HTML, CSS, JavaScript, and frontend frameworks like React or Angular. It takes data from the backend and presents it visually to the user.
 
 ### 1.1) HTML/CSS/JavaScript
-    Frontend developers use HTML (Hypertext Markup Language) for structuring content, CSS (Cascading Style Sheets) for styling, and JavaScript for adding interactivity and dynamic behavior to web pages.
+                    Frontend developers use HTML (Hypertext Markup Language) for structuring content, CSS (Cascading Style Sheets) for styling, and JavaScript for adding interactivity and dynamic behavior to web pages.
 
 ### 1.2) UI Frameworks and Libraries
     Frontend developers often utilize UI frameworks and libraries like React, Angular, Vue.js, or Bootstrap to streamline the development of responsive and visually appealing user interfaces.
