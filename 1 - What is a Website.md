@@ -18,6 +18,10 @@ Managing client-side routing for single-page applications (SPAs) to enable smoot
 ### 1.4) User Interface (UI)
 The frontend is the user-facing part of a website that users interact with directly. It consists of web pages, layouts, and user interfaces designed to present information and enable user interactions.
 
+# What we Use
+
+We use Vite JS and Next JS as Frontend Frameworks. For Stylling We are using Tailwind CSS or Chakra UI Depending upon the Nature of the Work. Time and Helping Material will be Provided by the Team Lead for Re-Adjustment of styling framework.
+
 ## 2) Backend
 The backend is the part of the website that runs on the server. It is responsible for the core functionality and business logic of the site. The backend handles data processing, authentication, APIs, server-side rendering, etc. Common backend technologies include languages like PHP, Python, Ruby, Java, and frameworks like Node.js, Django, Rails, etc.
 ### 2.1) Web Server 
