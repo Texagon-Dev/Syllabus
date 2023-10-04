@@ -1,10 +1,14 @@
 # Website
 
-A website is a collection of web pages and related resources that are accessible through a web browser over the internet. It is typically designed to provide information, services, or interactive content to users. A website comprises several key components, including the frontend, backend, and database, each with distinct roles and responsibilities. 1) Frontend 2) Backend 3) Database:
+A website is a collection of web pages and related resources that are accessible through a web browser over the internet. It is typically designed to provide information, services, or interactive content to users. A website comprises several key components, including the frontend, backend, and database, each with distinct roles and responsibilities. 1) Frontend 2) Backend 3) Database.
+
+
+<div style="margin-left: 20px;">
 
 ## 1) Frontend
 
 The frontend is what the user sees and interacts with. It includes the visual design, layout, and content that is displayed in the browser. The frontend is built using HTML, CSS, JavaScript, and frontend frameworks like React or Angular. It takes data from the backend and presents it visually to the user.
+<div style="margin-left: 20px;">
 
 ### 1.1) User Interface (UI)
 The frontend is the user-facing part of a website that users interact with directly. It consists of web pages, layouts, and user interfaces designed to present information and enable user interactions.
@@ -17,7 +21,7 @@ Frontend developers often utilize UI frameworks and libraries like React, Angula
 
 ### 1.4) Client-Side Routing
 Managing client-side routing for single-page applications (SPAs) to enable smooth navigation without full page reloads.
-
+</div>
 ## 2) Backend
 
 ### 2.1) Server Logic
@@ -48,3 +52,4 @@ Designing the database schema, including tables, relationships, and data integri
 
 ### 3.4) Database Operations
 Backend code interacts with the database through CRUD (Create, Read, Update, Delete) operations, ensuring data consistency and integrity.
+</div>
