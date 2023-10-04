@@ -52,8 +52,8 @@ The database stores, organizes and manages all the data for the website. It can 
 
 Supabase uses PostgreSQL, an open source relational database for storing data. PostgreSQL offers:
 
-==> Relational data models with tables, indexes, keys
-Scalability, reliability, and robust feature set \n
-==> Easy to integrate with Supabase APIs
+- Relational data models with tables, indexes, keys
+- Scalability, reliability, and a robust feature set
+- Easy integration with Supabase APIs
 
 The backend interacts with the Supabase PostgreSQL database for CRUD operations using SQL queries, the Supabase client library or other ORM tools.
