@@ -9,7 +9,7 @@ The frontend is what the user sees and interacts with. It includes the visual de
 - **1.1) HTML/CSS/JavaScript :**
 Frontend developers use HTML (Hypertext Markup Language) for structuring content, CSS (Cascading Style Sheets) for styling, and JavaScript for adding interactivity and dynamic behavior to web pages.
 
-- __1.2) UI Frameworks and Libraries __: 
+- **1.2) UI Frameworks and Libraries :** 
 Frontend developers often utilize UI frameworks and libraries like React, Angular, Vue.js, or Bootstrap to streamline the development of responsive and visually appealing user interfaces.
 
 - 1.3) User Interface (UI) : 
