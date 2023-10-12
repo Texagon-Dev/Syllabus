@@ -10,3 +10,5 @@ The following apps should be installed on your machines
 # Step 1 :  Github Learn 
   - Follow this Tutorial to learn Into to Github : https://github.com/skills/introduction-to-github
   - More Detailed : https://www.youtube.com/watch?v=RGOj5yH7evk&pp=ygUGZ2l0aHVi
+# Step 2 : Camel Case 
+  -In This Step , You have to follow this Tutorial : https://youtu.be/aQynK6RRdX0
