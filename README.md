@@ -13,3 +13,4 @@ The following apps should be installed on your machines
 # Step 2 : Camel Case 
   -In This Step , You have to follow this Tutorial : https://youtu.be/aQynK6RRdX0
 # Step 3 : Follow What is Website in this Directive?
+  - https://github.com/Texagon-Dev/Syllabus/blob/main/1%20-%20What%20is%20a%20Website.md
