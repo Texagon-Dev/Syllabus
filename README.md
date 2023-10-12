@@ -6,3 +6,6 @@ The following apps should be installed on your machines
 - Visual Studio Code or VSCodium
 - Anaconda for Python
 - NodeJs
+
+# Step 1 :  Github Learn 
+  - Follow this Tutorial to learn Into to Github : https://github.com/skills/introduction-to-github
