@@ -22,6 +22,7 @@ The frontend is the user-facing part of a website that users interact with direc
 
 We use Vite JS and Next JS as Frontend Frameworks. For Stylling We are using Tailwind CSS or Chakra UI Depending upon the Nature of the Work. Time and Helping Material will be Provided by the Team Lead for Re-Adjustment of styling framework.
 
+### Reference : https://youtu.be/9He4UBLyk8Y
 
 # 2) Backend Development
 The backend is the part of a website that runs on the server, responsible for handling core functionality and business logic. It comprises several crucial components and technologies.
